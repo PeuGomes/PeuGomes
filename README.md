@@ -27,7 +27,9 @@
   <a href="https://www.linkedin.com/in/pedro-ivo-barreto-gomes-a313b51b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![coding]()
+---
 
-
-
+<div style="width: 100%; display: flex; justify-content: space-between;">
+  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphyy.gif" style="width: 98%; height: 250px; object-fit: cover;" />
+  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphy2.gif" style="width: 98%; height: 250px; object-fit: cover;" />
+</div>
