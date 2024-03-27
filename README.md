@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/pedro-ivo-barreto-gomes-a313b51b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![coding](URL_DA_IMAGEM)
+![coding]()
 
 
 
