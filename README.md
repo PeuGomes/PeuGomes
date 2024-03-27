@@ -30,6 +30,6 @@
 ---
 
 <div style="width: 100%; display: flex; justify-content: space-between;">
-  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphyy.gif" style="height: 200px;  object-fit: cover;" />
-  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphy2.gif" style="height: 200px;  object-fit: cover;" />
+  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphyy.gif" style="height: 230px;  object-fit: cover;" />
+  <img src="https://github.com/PeuGomes/Python-3-OrientacaoAObjetosIntroducao/blob/master/giphy2.gif" style="height: 230px;  object-fit: cover;" />
 </div>
