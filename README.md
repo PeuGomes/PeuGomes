@@ -1,9 +1,5 @@
 ## Olá, eu sou o Pedro Gomes, criador de conteúdo de programação e tecnologia!!
 
-<audio controls>
-  <source src="https://raw.githubusercontent.com/PeuGomes/main/Python-3-OrientacaoAObjetosIntroducao/blob/master/StarWarsMainTheme.mp3" type="audio/mpeg">
-</audio>
-
 ### Linguagens e Ferramentas:
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" />
